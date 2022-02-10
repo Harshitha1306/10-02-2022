@@ -1,0 +1,6 @@
+o=int(input('enter the value of o :'))
+print('o')
+if o>0:
+    print('positive')
+else:
+    print('negative')
